@@ -1,0 +1,8 @@
+export(ca,compseq,compmat,flux,geneseq,homoth,makedico,makeSeries,matrcom,mattrans,multMatrans,read.old.seq,read.series.seq,rotation,smartArrow,symet)
+importFrom("grDevices", "dev.new")
+importFrom("graphics", "abline", "barplot", "hist", "legend", "lines",
+             "locator", "par", "plot", "polygon", "symbols", "title")
+importFrom("stats", "as.dist", "cmdscale", "dchisq", "hclust",
+             "pchisq", "qchisq", "rpois", "runif")
+importFrom("utils", "alarm")
+importFrom("grDevices", "dev.off")
